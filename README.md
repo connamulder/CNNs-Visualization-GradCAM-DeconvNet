@@ -57,3 +57,16 @@ Here are some results of these two methods applied in respective CNNs:
 4. Application to the InceptionV3.
 
    ![Image text](<https://raw.githubusercontent.com/Stardust-Zjt/CNNs-Visualization-GradCAM-DeconvNet/master/Image/InceptionV3.jpg>)
+
+***
+
+Reference:
+
+[ 《Visualizing and Understanding Convolutional Networks》](http://arxiv.org/pdf/1311.2901v3.pdf)
+
+[《Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization》](<https://arxiv.org/pdf/1610.02391v1.pdf>)
+
+[Jacobgil/Keras-Grad-CAM](<https://github.com/jacobgil/keras-grad-cam>)
+
+[jalused/Deconvnet-keras](<https://github.com/jalused/Deconvnet-keras>)
+
